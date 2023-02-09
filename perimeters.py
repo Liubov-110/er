@@ -2,4 +2,4 @@
 
 a = 3
 b = 7
-print((a + b) * 2)
+print(f'The perimeter of rectangle with sides {a} and {b} is', (a + b) * 2)
